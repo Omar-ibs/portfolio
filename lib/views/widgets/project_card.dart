@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:portfolio/utils/colors_palette.dart';
 import 'package:portfolio/utils/font_styles.dart';
-import 'package:portfolio/utils/projects_images.dart';
 import 'package:portfolio/views/widgets/clickable_project_images.dart';
 import 'package:portfolio/views/widgets/project_model.dart';
 import 'package:url_launcher/url_launcher.dart';
@@ -19,14 +18,6 @@ class ProjectCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final List<String> coverProjects = [
-      Assets.projectsCozoCover,
-      Assets.projectsPerfumesCover,
-      Assets.projectsBooklyCover,
-      Assets.projectsResponsiveDashboardFullPage,
-      Assets.projectsCurrencyCover,
-    ];
-
     return GestureDetector(
       onTap: () {
         //showProjectBottomSheet(context, projectModel);
