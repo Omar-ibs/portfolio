@@ -1,0 +1,244 @@
+{
+   "checksum": "e2d8cc33273bb848886bcef2bacb5572",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13329752112690412",
+            "date_last_used": "0",
+            "guid": "05f9ac75-ce3b-4b88-9cb0-4510624cdad2",
+            "id": "10",
+            "name": "Home - FCS - Download Udemy Paid Courses For Free",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://freecoursesite.uk/",
+            "visit_count": 0
+         }, {
+            "date_added": "13329752102050792",
+            "date_last_used": "0",
+            "guid": "3afca0a1-ccca-4eb0-8bb9-4822e4276188",
+            "id": "11",
+            "name": "TutsNode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tutsnode.net/",
+            "visit_count": 0
+         }, {
+            "date_added": "13331298667850035",
+            "date_last_used": "13355355687942203",
+            "guid": "33afa2c4-0abe-4340-9c42-08898ee2292c",
+            "id": "12",
+            "name": "Dashboard",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mdl.coie-nahrain.edu.iq/my/",
+            "visit_count": 0
+         }, {
+            "date_added": "13329752092089771",
+            "date_last_used": "0",
+            "guid": "be9c8f69-548a-4aa5-b242-937a0619f7f8",
+            "id": "13",
+            "name": "Cisco CCNA 200-301 Complete Course + Labs (Volume 1-2) | TutsNode",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://tutsnode.net/cisco-ccna-200-301-complete-course-labs-volume-1-2/",
+            "visit_count": 0
+         }, {
+            "date_added": "13329578713193712",
+            "date_last_used": "13375473703532118",
+            "guid": "c9945c7a-8c3e-408c-9e95-c5a551235aa3",
+            "id": "14",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13331146372337345",
+            "date_last_used": "13344975026289679",
+            "guid": "96bf9afe-e3b9-4dee-808a-f928f818d606",
+            "id": "15",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/",
+            "visit_count": 0
+         }, {
+            "date_added": "13330806434499765",
+            "date_last_used": "13340891622703471",
+            "guid": "82dd5430-1241-46bd-a2d6-ac5ab63f3642",
+            "id": "16",
+            "name": "Flutter documentation | Flutter",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://docs.flutter.dev/",
+            "visit_count": 0
+         }, {
+            "date_added": "13350346842254076",
+            "date_last_used": "0",
+            "guid": "38aa9bb7-6e9e-4129-9eec-9821e81e4d4b",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Meet",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://meet.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13338388801516286",
+            "date_last_used": "13350116095771771",
+            "guid": "07e1e256-935f-4a54-be9b-7a0f6728246e",
+            "id": "18",
+            "name": "Omar-ibs (Omar Abdulsattar)",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/Omar-ibs",
+            "visit_count": 0
+         }, {
+            "date_added": "13332631360174205",
+            "date_last_used": "13350173906277452",
+            "guid": "866736fa-f2f2-4036-aee3-e434dc89586e",
+            "id": "19",
+            "name": "Feed | LinkedIn",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/",
+            "visit_count": 0
+         }, {
+            "date_added": "13330433913690033",
+            "date_last_used": "13331300960566239",
+            "guid": "12fdf175-f4f8-4c62-b41e-f83674fbc881",
+            "id": "20",
+            "name": "Meet - ‪ogu-iwtk-cae‬‏",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://meet.google.com/ogu-iwtk-cae",
+            "visit_count": 0
+         }, {
+            "date_added": "13329733326166446",
+            "date_last_used": "0",
+            "guid": "72501a70-5ba2-4f28-9301-6bf27c3fc06c",
+            "id": "21",
+            "name": "Login - File Browser",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://164.92.253.223:3000/login?redirect=%2Ffiles%2F",
+            "visit_count": 0
+         }, {
+            "date_added": "13341346677423191",
+            "date_last_used": "0",
+            "guid": "c3869526-1927-4ce6-b471-0e59b5289080",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "The Complete Networking Fundamentals Course. Your CCNA start",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://downloadly.ir/elearning/video-tutorials/the-complete-networking-fundamentals-course-10/",
+            "visit_count": 0
+         }, {
+            "date_added": "13350428588056722",
+            "date_last_used": "0",
+            "guid": "2dabd8ff-79a9-43d0-9b67-122fc029c4da",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/",
+            "visit_count": 0
+         } ],
+         "date_added": "13391369427379331",
+         "date_last_used": "0",
+         "date_modified": "13350428588056722",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13329516485295335",
+            "date_last_used": "0",
+            "date_modified": "13329516485295335",
+            "guid": "712ba8c2-1d1e-4451-bc42-cfcb2a204cbc",
+            "id": "6",
+            "name": "Bookmark Bar",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13329516485295843",
+            "date_last_used": "0",
+            "date_modified": "13329516485295843",
+            "guid": "e295d557-a510-40e0-bfa5-3c51fa34894f",
+            "id": "7",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "0525f0eb-776b-4e72-acd2-2299092edcb6",
+               "id": "9",
+               "name": "IMEI CHECK - Free Online IMEI Number Checker | IMEI.info",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.imei.info/",
+               "visit_count": 0
+            } ],
+            "date_added": "13329516485295881",
+            "date_last_used": "0",
+            "date_modified": "13329516485295881",
+            "guid": "92925a1c-175c-466d-a3e9-987041d3308d",
+            "id": "8",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13391369427379333",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13391369427379338",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCFN1FruWAQAAKg4QABgBIAAoBjAAOABAABIAKhhpYmlTTUhzdnUyc0s4TTh2ZXdxRDV3PT1IA6AGDBKsAQgXEqcBChwxWUhqQ0p2UStvUVprWW5nZW9vemRLSGl6ZUk9EiQyZGFiZDhmZi03OWE5LTQzZDAtOWI2Ny0xMjJmYzAyOWM0ZGEYACAAKAAwzrXdltMxOM643ZbTMUDOuN2W0zFKHCtmalBxNlpNa0Y4YzV5NCtkajZaZ0l6TGxXUT1aHiIcY0Nha1dYVStiL0paakZwT0ltd0hueHg0eVR3PWVpGyLzwj4CYAUSrAEIFhKnAQocaVZadm5Ca2hlcWNldmpMOEhnbWJETXd1cTF3PRIkYzM4Njk1MjYtMTkyNy00Y2U2LWI0NzEtMGU1OWI1Mjg5MDgwGAAgACgAMNfxkayxMTju85GssTFA7vORrLExShxHb3ZmOFAzenJnZ3o5QUdXbjNxZ3RYY0JNVUk9Wh4iHDZZY1Z5cU5XZ1d4SnBQSlY2Wk04OFhaVDdGND1lzdfhb8I+AmAFEqwBCBUSpwEKHE5QSGJtOHU3T2NUUmdRaUwyOFlqancvVjRGdz0SJDcyNTAxYTcwLTViYTItNGYyOC05MzAxLTZiZjI3YzNmYzA2YxgAIAAoADC6p+WNhzE4jey6ioYxQI3suoqGMUocYnhQTDMvRnkrODdoVE1yR2FMM2JSemNnM2VJPVoeIhwxYzJPT2poRWdnSmd3bmxPZnZ5aWFSN2crWmc9ZX7OwJzCPgJgBRKtAQgUEqgBChx4byswK0ZmeUtMbzlWMldpV2VOTnZBV3J3bzQ9EiQxMmZkZjE3NS1mNGY4LTRjNjItYjQxZS1mODM2NzRmYmM4ODEYACAAKAAw/s6t8JAxONyuw9iIMUDcrsPYiDFKHFVpSXpSbkhBZEJpcjdhd3JaZGxWaWUzTnkzcz1aHyIdKk5uZDhDejBoQ1ZJR25qbmlnZnFxL081S1Z6Zz1l9CL1G8I+AmAFEq0BCBISqAEKHDFmK3U2M25OTEgvamdqSXdvcHlINFJlUUdkND0SJDA3ZTFlMjU2LTkzNWYtNGE1NC1iZTliLTdhMGY2NzI4MjQ2ZRgAIAAoADDzqfqKpzI4g5bbqaYxQIOW26mmMUocQXlJTk4wNS9VaU5TVHZKc3F0OTRtVk9zSnNjPVofIh0oeDB2VU9VUkZTVGIyckFHQ1o4T29tVjRkMzRjPWUVUPmJwj4CYAUSrQEIERKoAQocYnZXQytKMGxJcGVVL0twbnloK0NSUnJBc1JZPRIkMzhhYTliYjctNmU5ZS00MTI5LTllZWMtOTgyMWU4MWU0ZDRiGAAgACgAMITI4O/SMTiGkODv0jFAhpDg79IxShxWa3Z2RnlFeUtjdzZoaDBOUlg3TWZSeDFTQzQ9Wh8iHSdHRnJhUW5zTktFUjFtRFZYR1VRaTN5azVNVVk9ZfQi9RvCPgJgBRKtAQgQEqgBChxXWmNjWDdJWXNadFJNMHZDMWhhZjE2ZVNxM1E9EiQ4MmRkNTQzMC0xMjQxLTQ2YmQtYTJkNi1hYzVhYjYzZjM2NDIYACAAKAAw9Ly2ydkxOO6clIqKMUDunJSKijFKHE1BLzgrbDQ3cU9EVWlhSVBrZXFLN2JRT0RKVT1aHyIdJGI2MnBOVy9kMWZVU1pNK1E4OTNhZlJCMG0wcz1lpjmIccI+AmAFEq0BCA8SqAEKHG81enFSKzU4bXZwbjJYcjZDdHpBZjZ0aHZLcz0SJDk2YmY5YWZlLWUzYjktNGRlZS04MDhhLWY5MjhmODE4ZDYwNhgAIAAoADDa/4WKyzE4z62grIsxQM+toKyLMUocOXpFTzNtdkVyTTY5bld3RzRCUWNsZ2FwRm5ZPVofIh0ecW9LWkM3clBKc2d4em9Oc1A4Y1FnQmUzS1VNPWWbPYW2wj4CYAUSrQEIDhKoAQoceFhVVUZxbU4rL2xlcFFSb0l5bW1ZOTRDUWNJPRIkYzk5NDVjN2EtOGMzZS00MDhjLTllOTUtYzVhNTUxMjM1YWEzGAAgACgAMPOUlr2wMjjTjt7AhTFA047ewIUxShxHalZ1NjN0TlQ2Q2o3WHBVeHdKSVBzUjdJeFk9Wh8iHRtoYVRtemN0R3BTVjRXS09lRHJFdlJPblM0RlU9Zf2cjErCPgJgBRKtAQgMEqgBChxMQjZ3RTBqeXVxU1E4cW5kcUN0OU0wc1Z4RmM9EiQzM2FmYTJjNC0wYWJlLTQzNDAtOWM0Mi0wODg5OGVlMjI5MmMYACAAKAAwxdyTxOUxOLjh7/SLMUC44e/0izFKHE9vSHNjYUVWTFVFYmxWVlk0OUJkSFVySjdpdz1aHyIdEnJyV2E2MTlhUVlXZDZFWFhWV0d3SFBnNkxhOD1lMvCBWsI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGE4MDkzZmRhLTZmM2UtNTc0My05MmVkLWMzOTVkYjgxOTIxNRgAIAAoADDNusehhTE45rvHoYUxQOa7x6GFMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKsAQgJEqcBChxyMlNVTTJZV2c0aGFmUTZNUTMrbHJyRElrQ0E9EiQwNTI1ZjBlYi03NzZiLTRlNzItYWNkMi0yMjk5MDkyZWRjYjYYACAAKAAws5KJo4UxOI6TiaOFMUCOk4mjhTFKHDcyV2VOTUYxTDZHTmtIMDh4c3dQSVA4cVV5WT1aHiIcdEo1TkNncldDS0U2Mkl6Wml5M0RodExuT1dRPWUAAAAAwj4CYAUSrQEICxKoAQocRC9ITHlWaUFSZ1gxWWtLN1VZK21RYmJJREw4PRIkM2FmY2EwYTEtY2NjYS00ZWIwLThiYjktNDgyMmU0Mjc2MTg4GAAgACgAMPXU5Y2HMTiE7bSThjFAhO20k4YxShxPblF3UVpEbFdaNWNMZWlEejF3OFE5YWdodDQ9Wh8iHQw2VlRvWXdZY0o5cm5Cbk1kNzY0WCtkMWYrMEk9ZXvxyCrCPgJgBRKtAQgNEqgBChxoVGUrYUdpcnFyei9OSTJaKzZaa244aTBzNHM9EiRiZTljOGY2OS01NDhhLTRhYTUtYjI0Mi05MzdhMDYxOWY3ZjgYACAAKAAw0b3ljYcxOKCftJOGMUCgn7SThjFKHEhyNFNxNldsanZkNVp2cnZGSHBmWmpvU2wrRT1aHyIdGEFmUUN2czNYUDFOdmJpMlFxL2JhNFBiNE1DQT1le/HIKsI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDM2ZDBmYjQwLWMxZTYtNTJmZi04YWUxLWZiYTU0MjFmZDQ2ZhgAIAAoADDTusehhTE4kr3HoYUxQJK9x6GFMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKtAQgIEqgBChwrUlBSNVdWaGs5aGxScGdlc2NUZ1pxRU50SFE9EiQ5MjkyNWExYy0xNzVjLTQ2NmQtYTNlOS05ODcwNDFkMzMwOGQYACAAKAAwspKJo4UxOPeSiaOFMUD3komjhTFKHFdmeDZZM0JudS9ESWVuUnBvaWpzTlBSNDZzMD1aHyId0TRrenAzS3VVL01TUi9hQzZmYjgwSWlZTGpCWT1lAAAAAMI+AmAAEq0BCAcSqAEKHGw2ZmFMMmFIUGd4ZWlacUlHVmR4NUdjVnBRYz0SJGUyOTVkNTU3LWE1MTAtNDBlMC1iZmE1LTNjNTFmYTM0ODk0ZhgAIAAoADCxkomjhTE44ZKJo4UxQOGSiaOFMUocV2hsMmVQb0JTRk1SOFQ5WUlycmhwMVdRTGpNPVofIh2jQXVMZGsxOThGcmJDTzVtRkx4OFFoVDZ2N2FRPWUAAAAAwj4CYAASrQEIExKoAQocSjZVeHF3cmJ6eEFQQmhZYU9RalViU2M0UVU0PRIkODY2NzM2ZmEtZjJmMi00MDM2LWFlZTMtZTQzNGRjODk1ODZlGAAgACgAMOOw4u/SMTj666zwkDFA+uus8JAxShx5MUlZMGpHb1pNOXNDcVBIRE41SFUySGVtTTA9Wh8iHSlBRnQybDJDOHVjY0xpV1dVeUxCVHJVcmo4dUE9ZUVNStHCPgJgBRKsAQgGEqcBChx2Y3BlSVBEWm4vREY4OHdDalI5dWNIYzB4SUk9EiQ3MTJiYThjMi0xZDFlLTQ0NTEtYmM0Mi1jZmNiMmEyMDRjYmMYACAAKAAwsJKJo4UxOMuSiaOFMUDLkomjhTFKHEVkcDZnOEZ6Tis3Wm50c1VLeWJUaERBSG1lRT1aHiIcRnJrakpLeEhOVmRZdm1MalR4SGtHaGZqbFU4PWUAAAAAwj4CYAASrQEIChKoAQocbFVnZDBRT2ZpK1pxbHFyQWNIeFllNXFnVGc0PRIkMDVmOWFjNzUtY2UzYi00Yjg4LTljYjAtNDUxMDYyNGNkYWQyGAAgACgAMIPq5Y2HMTjuv7WThjFA7r+1k4YxShxzSklEL0FPOUNkRVVrN2Qxa20rdzFadjRpS3M9Wh8iHQZZNHpLZm14eWpPQ3hhZkZBaXBSa080b1NPR2M9ZZwvdqLCPgJgBRKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRmODVmYWI2ZS01ODI2LTU0ZTctYmY0Ny00NWRjYTNmZDZlNTUYACAAKAAwzrrHoYUxOIm8x6GFMUCJvMehhTFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
