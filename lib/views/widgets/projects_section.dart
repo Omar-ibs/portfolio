@@ -20,33 +20,26 @@ class _ProjectsSectionState extends State<ProjectsSection> {
 
   @override
   Widget build(BuildContext context) {
-    double width = MediaQuery.sizeOf(context).width;
+    // double width = MediaQuery.sizeOf(context).width;
     return SizedBox(
-      height: width < 800 ? 2700 : 1000,
-      width: width < 800 ? 500 : width,
-      child: GridView.builder(
-        physics: const NeverScrollableScrollPhysics(),
-        itemCount: 5,
+      height: 140,
+      width: double.maxFinite,
+      child: ListView.builder(
+        shrinkWrap: true,
+        physics: const BouncingScrollPhysics(),
+        scrollDirection: Axis.horizontal,
+        itemCount: projectModelList.projectModel.length,
         padding: const EdgeInsets.symmetric(horizontal: 70),
-        gridDelegate: width < 800
-            ? const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 1,
-                mainAxisSpacing: 30,
-                childAspectRatio: 1 / 1.25,
-              )
-            : const SliverGridDelegateWithFixedCrossAxisCount(
-                crossAxisCount: 3,
-                crossAxisSpacing: 30,
-                childAspectRatio: 1,
-                mainAxisSpacing: 25,
-              ),
-        itemBuilder: (context, index) => MouseRegion(
-          onEnter: (_) => setState(() => _isHovered[index] = true),
-          onExit: (_) => setState(() => _isHovered[index] = false),
-          child: ProjectCard(
-            isHovered: _isHovered,
-            index: index,
-            projectModel: projectModelList.projectModel[index],
+        itemBuilder: (context, index) => Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 8.0),
+          child: MouseRegion(
+            onEnter: (_) => setState(() => _isHovered[index] = true),
+            onExit: (_) => setState(() => _isHovered[index] = false),
+            child: ProjectCard(
+              isHovered: _isHovered,
+              index: index,
+              projectModel: projectModelList.projectModel[index],
+            ),
           ),
         ),
       ),

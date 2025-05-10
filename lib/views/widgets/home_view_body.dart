@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:portfolio/utils/font_styles.dart';
 import 'package:portfolio/views/widgets/desktop_aboutMeSection.dart';
 import 'package:portfolio/views/widgets/contact_section.dart';
-import 'package:portfolio/views/widgets/overview_and_photo.dart';
+import 'package:portfolio/views/widgets/overview.dart';
 import 'package:portfolio/views/widgets/projects_section.dart';
 
 class HomeViewBody extends StatelessWidget {
@@ -10,12 +10,11 @@ class HomeViewBody extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(children: [
+    return Column(crossAxisAlignment: CrossAxisAlignment.center, children: [
       const Padding(
-          padding: EdgeInsets.symmetric(horizontal: 70.0),
-          child: OverviewAndPhoto()),
+          padding: EdgeInsets.symmetric(horizontal: 70.0), child: Overview()),
       const SizedBox(
-        height: 200.0,
+        height: 30.0,
       ),
       const AboutMeAnimation(),
       const SizedBox(
@@ -29,6 +28,9 @@ class HomeViewBody extends StatelessWidget {
         height: 30.0,
       ),
       const ProjectsSection(),
+      const SizedBox(
+        height: 20,
+      ),
       Text(
         'Contact',
         style: FontStyles.s48semiBoldText(context),

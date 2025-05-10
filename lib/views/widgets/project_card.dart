@@ -33,8 +33,23 @@ class ProjectCard extends StatelessWidget {
         showAlertDialog(context);
       },
       child: AnimatedContainer(
+        padding: const EdgeInsets.symmetric(vertical: 20.0, horizontal: 20.0),
         duration: const Duration(milliseconds: 200),
         decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(20),
+            border: Border.all(
+              color: _isHovered[index]
+                  ? const Color.fromARGB(255, 43, 135, 174)
+                  : ColorsPalette.whiteColor,
+              width: 2,
+            ),
+            gradient: const LinearGradient(
+              end: Alignment.center,
+              colors: [
+                ColorsPalette.blackColor,
+                Color(0xff13203d),
+              ],
+            ),
             boxShadow: _isHovered[index]
                 ? [
                     const BoxShadow(
@@ -46,22 +61,12 @@ class ProjectCard extends StatelessWidget {
                   ]
                 : [],
             color: ColorsPalette.whiteColor),
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [
-            Image.asset(
-              coverProjects[index],
-              height: 400,
-              width: double.maxFinite,
-              fit: BoxFit.fill,
-            ),
-            Text(
-              projectModel.projectName,
-              style: FontStyles.s18mediumText(context)
-                  .copyWith(color: ColorsPalette.blackColor),
-            ),
-            const SizedBox(height: 12),
-          ],
+        child: Center(
+          child: Text(
+            projectModel.projectName,
+            style: FontStyles.s32mediumText(context)
+                .copyWith(color: ColorsPalette.whiteColor),
+          ),
         ),
       ),
     );
