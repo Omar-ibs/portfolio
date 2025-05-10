@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:portfolio/utils/colors_palette.dart';
 import 'package:portfolio/utils/font_styles.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'dart:html' as html;
 
 class ContactSection extends StatelessWidget {
   const ContactSection({super.key});
@@ -51,13 +52,23 @@ class ContactSection extends StatelessWidget {
         GestureDetector(
           onTap: () => _launchEmail(email),
           child: Text(
-            email,
+            '$email |',
             style: FontStyles.s16regularText(context)
                 .copyWith(color: ColorsPalette.whiteColor),
           ),
         ),
-        const SizedBox(
-          height: 20,
+        GestureDetector(
+          onTap: () {
+            const url = 'assets/resume/omar_abdulsattar.pdf';
+            html.AnchorElement anchorElement = html.AnchorElement(href: url);
+            anchorElement.download = 'Omar_Resume.pdf';
+            anchorElement.click();
+          },
+          child: Text(
+            'Download resume',
+            style: FontStyles.s16regularText(context)
+                .copyWith(color: ColorsPalette.whiteColor),
+          ),
         ),
       ],
     );
